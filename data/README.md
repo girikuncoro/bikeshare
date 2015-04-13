@@ -1,14 +1,12 @@
-Since the files are more than 250 MB (1.5 GB when unzipped), download yourself in the below link for the trip history data:
-
 ##1. Capital Bikeshare DC
 
-1st Quarter 2011: https://www.capitalbikeshare.com/assets/files/trip-history-data/2011-Q1-Trips-History-Data.zip
-<br>2nd Quarter 2011: https://www.capitalbikeshare.com/assets/files/trip-history-data/2011-Q2-Trips-History-Data.zip
-<br>3rd Quarter 2011: https://www.capitalbikeshare.com/assets/files/trip-history-data/2011-Q3-Trips-History-Data.zip
-<br>4th Quarter 2011: https://www.capitalbikeshare.com/assets/files/trip-history-data/2011-Q4-Trips-History-Data.zip
+The trip history data in 2011 can be found in `Capital Bikeshare 2011.zip`.
+`bike_stations.csv` contains more than 300 stations information in DC, which includes long lat coordinate.
+`wmata_stations.csv` is metro station location data in DC, which will be used in the next step of this project.
 
 ##2. Citi Bike NYC
 
+Citi Bike data is very huge (more than 1.5GB if unzipped which exceeds Github size limitation), download for yourself here:<br>
 https://s3.amazonaws.com/tripdata/201401-citibike-tripdata.zip
 <br>https://s3.amazonaws.com/tripdata/201402-citibike-tripdata.zip
 <br>https://s3.amazonaws.com/tripdata/201403-citibike-tripdata.zip
