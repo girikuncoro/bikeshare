@@ -10,6 +10,8 @@ The repo contains script that analyzes data from Capital Bikeshare (DC) in 2011 
 Note: For Citi Bike (NYC), since the data is very huge (more than 1.5 GB if unzipped, it exceeds Github size limitation), you need to download by yourself.
 Refer to Readme under the `data` folder for the download links directly from Citi Bike website.
 
+The script is written in iPython Notebook, view here (http://nbviewer.ipython.org/github/girikuncoro/bikeshare/blob/master/script/Preliminary%20Analysis.ipynb) if you don't have it installed in your computer.
+
 ## Requirement
 0. iPython Notebook (http://ipython.org/notebook.html)<br>
 1. numpy<br>
